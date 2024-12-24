@@ -348,7 +348,9 @@ nav button {
 .faq {
     background: black;
     color: white;
-    padding: 34px;
+    
+    
+    
 }
 
 .faqbox:hover {
@@ -361,7 +363,7 @@ nav button {
 }
 
 .faqbox {
-    width: 100vh;
+    width: 100vw;
     transition: all 0s ease-out;
     font-size: 24px;
     display: flex;
